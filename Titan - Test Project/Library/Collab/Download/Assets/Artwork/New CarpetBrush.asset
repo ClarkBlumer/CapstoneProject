@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 84c1de61e39cb5d488fe0684e723aceb, type: 3}
+  m_Name: New CarpetBrush
+  m_EditorClassIdentifier: 
+  Tileset: {fileID: 11400000, guid: 3ac8841ed68f42f46be807055674d180, type: 2}
+  Params:
+    m_paramList: []
+  m_group: 0
+  m_autotilingMode: 1
+  TileIds: 4600000046000000460000008a00000046000000460000000000000045000000460000008c000000460000008b00000002000000470000000100000046000000
+  InteriorCornerTileIds: 8a0000008c0000000000000002000000

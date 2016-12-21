@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/Scenes/Clark_Playground/Base.unity
+  isLoaded: 1
+  isActive: 1
